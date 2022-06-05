@@ -1,1 +1,3 @@
-# Cryptocurrencies
+# Cryptocurrencies Analysis
+## Background
+This analysis is to help preprocess the dataset for the Cryptocurrencies Project, which makes the dataset ready for the next step in unsupervised machine learning by reducing the feature dimensions, determinig the principal components and the class from Elbow Curve, K-mean model. We can further visualize the distribution of the class predictions using hvplot, which helps evaluate the progress of creating different classes.
